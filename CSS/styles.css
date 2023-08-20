@@ -1,0 +1,16 @@
+#image{
+    width: 600px;
+    height: 600px;
+    border-radius: 6px;
+}
+#card{
+    margin-left: auto;
+    margin-right: auto;
+}
+#dataResponse{
+    min-height: 400px;
+}
+#logo_gf{
+    width: 100px;
+    height: 100px;
+}
